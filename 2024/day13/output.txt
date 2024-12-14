@@ -1,0 +1,7 @@
+part a starting...
+26005
+part a completed in: 0.001649618148803711
+
+part b starting...
+105620095782547
+part b completed in: 0.00180816650390625
